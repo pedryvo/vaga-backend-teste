@@ -1,0 +1,63 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  pokedex_number: MyString
+  img_name: MyString
+  generation: MyString
+  evolution_stage: MyString
+  evolved: MyString
+  family_id: MyString
+  cross_generation: MyString
+  type_1: MyString
+  type_2: MyString
+  weather_1: MyString
+  weather: MyString
+  stat_total: MyString
+  atk: MyString
+  def: MyString
+  sta: MyString
+  legendary: MyString
+  aquierable: MyString
+  spawns: MyString
+  regional: MyString
+  raidable: MyString
+  hatchable: MyString
+  shiny: MyString
+  nest: MyString
+  new: MyString
+  not_gettable: MyString
+  future_evolve: MyString
+  hundred_cp_40: MyString
+  hundred_cp_39: MyString
+
+two:
+  name: MyString
+  pokedex_number: MyString
+  img_name: MyString
+  generation: MyString
+  evolution_stage: MyString
+  evolved: MyString
+  family_id: MyString
+  cross_generation: MyString
+  type_1: MyString
+  type_2: MyString
+  weather_1: MyString
+  weather: MyString
+  stat_total: MyString
+  atk: MyString
+  def: MyString
+  sta: MyString
+  legendary: MyString
+  aquierable: MyString
+  spawns: MyString
+  regional: MyString
+  raidable: MyString
+  hatchable: MyString
+  shiny: MyString
+  nest: MyString
+  new: MyString
+  not_gettable: MyString
+  future_evolve: MyString
+  hundred_cp_40: MyString
+  hundred_cp_39: MyString
